@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0a6a0843e3cfc49ab77bab3ec71e80, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "According to all known laws of aviation, there is no way a bee should be able
+    to fly.\r"
+  - "Its wings are too small to get its fat little body off the ground.\r"
+  - The bee, of course, flies anyway because bees don't care what humans think is
+    impossible.
+  - Nah, just kidding :P
+  responses:
+  - responseText: Affirm
+    dialogueObject: {fileID: 11400000, guid: a6399cd9e73f8634dbb12ee732418df6, type: 2}
+  - responseText: Deny
+    dialogueObject: {fileID: 11400000, guid: 236d1ba9a2ea9ce45b57293e0a441641, type: 2}
