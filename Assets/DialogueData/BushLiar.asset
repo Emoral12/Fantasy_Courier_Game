@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0a6a0843e3cfc49ab77bab3ec71e80, type: 3}
+  m_Name: BushLiar
+  m_EditorClassIdentifier: 
+  dialogue:
+  - "'ello there! How you doing? Good I\u2019m hoping."
+  responses:
+  - responseText: Ask about path
+    dialogueObject: {fileID: 11400000, guid: 9e8e337599ed17341954090df2ecfaec, type: 2}
+  - responseText: Tell about your day
+    dialogueObject: {fileID: 11400000, guid: 90191efd8a1945043b145617cbb3789d, type: 2}

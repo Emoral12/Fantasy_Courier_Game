@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0a6a0843e3cfc49ab77bab3ec71e80, type: 3}
+  m_Name: TreeGuide
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Such a jolly day!
+  - I love it today, so sunny and happy!
+  - "But the mean dragon over at the cavern\u2026 he has threatened to fry me and
+    the other trees!"
+  - "He said something about his birthday and cake\u2026"
+  - "But I don't know about any of that, I\u2019m just a tree!"
+  - Well, you must be new here, so you have any questions about the forest?
+  responses:
+  - responseText: About the dragon
+    dialogueObject: {fileID: 11400000, guid: b61d2f078b7efc546bf103e0298dcb00, type: 2}
+  - responseText: About the forest
+    dialogueObject: {fileID: 11400000, guid: 4659663afc8a5e94b81f459ed8ac1633, type: 2}

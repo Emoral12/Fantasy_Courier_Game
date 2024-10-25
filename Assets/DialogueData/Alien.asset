@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0a6a0843e3cfc49ab77bab3ec71e80, type: 3}
+  m_Name: Alien
+  m_EditorClassIdentifier: 
+  dialogue:
+  - BKJLNBhiboibIUONBJHFBEBFHB B?!345656
+  - X-26HjgbsngnronO29HBG4[][--090
+  - y0=+*HjgbsngnronO29HBG4[][--090
+  - Z165.44=+*HjgbsngnronO29HBG4[][--090
+  responses: []
