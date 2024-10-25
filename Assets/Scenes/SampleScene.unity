@@ -6954,7 +6954,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   dialogueUI: {fileID: 1861578452}
-  speed: 3
+  speed: 12
 --- !u!114 &1256458296
 MonoBehaviour:
   m_ObjectHideFlags: 0
